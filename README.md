@@ -1,1 +1,2 @@
-This project is for mini2440 components testing.
+#This project is for mini2440 components testing.
+#Test.
